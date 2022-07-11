@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>实训-1</title>
+    <link href="/2022/07/11/%E5%AE%9E%E8%AE%AD-1/"/>
+    <url>/2022/07/11/%E5%AE%9E%E8%AE%AD-1/</url>
+    
+    <content type="html"><![CDATA[<h5 id="学习日志、作业、实训报告手册"><a href="#学习日志、作业、实训报告手册" class="headerlink" title="学习日志、作业、实训报告手册"></a>学习日志、作业、实训报告手册</h5><p>小组成员-组长-班级助理-实训老师： 龚鑫 <a href="mailto:&#57;&#50;&#49;&#x30;&#x38;&#x30;&#51;&#55;&#54;&#x40;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;">&#57;&#50;&#49;&#x30;&#x38;&#x30;&#51;&#55;&#54;&#x40;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;</a></p><blockquote><p>20:20前完成每天的日志上交</p></blockquote><h5 id="成绩考核"><a href="#成绩考核" class="headerlink" title="成绩考核"></a>成绩考核</h5><p>日常考勤20+项目报告50+作业30</p><p>官网：<a href="http://www.gxaedu.com/">http://www.gxaedu.com</a></p><p>没有答辩，以实训报告为基础</p><p><img src="https://s2.loli.net/2022/07/11/ibzv6YRtocP7sZV.png"></p><h5 id="今日份学习计划"><a href="#今日份学习计划" class="headerlink" title="今日份学习计划"></a>今日份学习计划</h5><p><img src="https://s2.loli.net/2022/07/11/FGUToabKmZEgDtB.png" alt="image-20220711094852489"></p><h4 id="导入虚拟机"><a href="#导入虚拟机" class="headerlink" title="导入虚拟机"></a>导入虚拟机</h4><ul><li><p>直接双击.vmx ，然后再workstation里面打开</p></li><li><p>右边库里面保存快照</p><p><img src="https://s2.loli.net/2022/07/11/Te9pFxSkqQUIzNu.png" alt="image-20220711100729689"></p><ul><li>如果找不到库就把图标改成最左边那个</li></ul></li></ul><h4 id="g"><a href="#g" class="headerlink" title="g"></a>g</h4><ul><li>第一个ip地址是物理机上面的虚拟网卡的ip地址<br><img src="https://s2.loli.net/2022/07/11/Fefvm7cNdZ8bgWX.png" alt="image-20220711102135066"></li></ul><p><img src="https://s2.loli.net/2022/07/11/83u9rtWdifDp4EO.png" alt="image-20220711102216492"></p><ul><li><p>公网的主机无法直接访问内网主机，但是两者之间是可以通讯的。只是说公网主机不能直接向内网主机发送请求</p></li><li><p>任务3-配置虚拟网络<br><img src="https://s2.loli.net/2022/07/11/9pCGdHhQjeD7RAy.png" alt="image-20220711103453121"></p><ul><li>bridge模式，相当于允许你的虚拟机获得一个川大校园网的ip地址</li></ul></li><li><p>为什么虚拟机可以内存设置为一个T：<br>因为不是实时分配的</p></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>SCU</category>
+      
+      <category>大二</category>
+      
+      <category>实训</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>learning</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Record/1_Indra</title>
     <link href="/2022/07/03/For-Indra/"/>
     <url>/2022/07/03/For-Indra/</url>
